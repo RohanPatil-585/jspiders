@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/antlr-3.1.1.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/dom4j-1.6.1.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/hibernate-commons-annotations-5.0.1.Final.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/hibernate-core-5.0.4.Final.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/hibernate-jpa-2.1-api-1.0.0.Final.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/javaee.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/javassist-3.17.1-GA.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/jboss-logging-3.3.0.Final.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Jars/mysql-connector-java-5.1.5-bin.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

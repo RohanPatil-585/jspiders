@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/commons-logging.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-aop-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-beans-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-context-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-core-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-expression-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-instrument-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-jdbc-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-web-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-webmvc-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

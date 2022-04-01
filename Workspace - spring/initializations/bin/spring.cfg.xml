@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation=" http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+	
+    <bean id="tvBean" class="org.jspiders.initializationApp.setters.bean.TvBean">
+        <property name="inches" value="21"></property>
+    </bean>
+    <bean id="barBean" class="org.jspiders.initializationApp.setters.bean.BarBean" scope="prototype">
+        <constructor-arg value="navrang"></constructor-arg>
+        <property name="type" value="mrp"></property>
+    </bean>
+</beans>

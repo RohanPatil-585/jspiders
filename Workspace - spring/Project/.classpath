@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/commons-logging.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-aop-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-beans-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-context-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-core-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-expression-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-instrument-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-jdbc-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-web-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/Spring jars/spring-webmvc-4.2.2.RELEASE.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/antlr-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/commons-logging.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/hibernate-core-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/javaee.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-aop-4.2.2.RELEASE (1).jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-beans-4.2.2.RELEASE (1).jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-context-4.2.2.RELEASE (1).jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-core-4.2.2.RELEASE (1).jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-dao-2.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-expression-4.2.2.RELEASE (1).jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-instrument-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-jdbc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-orm-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-tx-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-web-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/SPringHibernateIntegration jars 123/spring-webmvc-4.2.2.RELEASE (1).jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/servlets jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/antlr-3.1.1.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/dom4j-1.6.1.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/hibernate-commons-annotations-5.0.1.Final.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/hibernate-core-5.0.4.Final.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/hibernate-jpa-2.1-api-1.0.0.Final.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/javaee.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/javassist-3.17.1-GA.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/jboss-logging-3.3.0.Final.zip"/>
+	<classpathentry kind="lib" path="G:/JARS &amp; XML files/hibernate Jars/mysql-connector-java-5.1.5-bin.zip"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script>
+
+	function pathinfo() {
+		var path = document.getElementById('file1').value;
+		alert(path);
+	}
+</script>
+
+</head>
+<body>
+	<form action="xls" enctype="multipart/form-data">
+		<table border="1">
+			<tr>
+				<th colspan="2">Document Operation</th>
+			</tr>
+
+			<tr>
+				<td><input type="file" name="file" accept=".xlsx" id="file1">
+				</td>
+				<td><input type="submit" value="save" name="Submit"
+					onclick="pathinfo();"></td>
+			</tr>
+
+			<tr>
+				<td>Download All Data Into Database</td>
+				<td><input type="submit" value="Download" name="Submit">
+				</td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>
